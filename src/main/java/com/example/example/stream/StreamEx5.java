@@ -10,6 +10,7 @@ public class StreamEx5 {
         hmap.put(2, "Dog");
         hmap.put(3, "Cat");
         hmap.put(4, "Lion");
+        hmap.put(4, "Cow");
         hmap.put(5, "Tiger");
         hmap.put(6, "Bear");
 
