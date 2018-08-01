@@ -16,7 +16,7 @@ public class ReverseStringByWords {
 				st3=st3+s1.charAt(j);
 			}
 			st3=st3+" ";
-			//System.out.println(st3);
+			System.out.println(st3);
 			
 		}
 		System.out.println(st3);
